@@ -1,6 +1,7 @@
 /build/
 /dist/
 /pywebchannel.egg-info/
+/menlosystems_pywebchannel.egg-info/
 __pycache__/
 *.pyc
 .spyderproject
