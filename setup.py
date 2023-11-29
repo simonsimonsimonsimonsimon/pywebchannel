@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="menlosystems-pywebchannel",
+    name="menlosystems.pywebchannel",
     version=pywebchannel.__version__,
     author=pywebchannel.__author__,
     author_email=pywebchannel.__email__,
